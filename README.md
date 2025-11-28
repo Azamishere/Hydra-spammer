@@ -1,4 +1,4 @@
-```markdown
+
 # Eternal Veridian Hydra
 
 *A Historical Analysis Tool for Demonstrating Early 21st Century Authentication Protocol Vulnerabilities*
