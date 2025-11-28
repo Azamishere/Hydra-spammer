@@ -59,7 +59,7 @@ Method B - Direct Download:
 
 ```bash
 mkdir hydra-project && cd hydra-project
-curl -o hydra_pulse.py "https://raw.githubusercontent.com/your-username/eternal-veridian-hydra/main/hydra_pulse.py"
+curl -o hydra_pulse.py "https://raw.githubusercontent.com/696XXX/Hydra-spammer/refs/heads/main/hydra_pulse.py"
 ```
 
 Method C - Manual Download:
@@ -165,10 +165,10 @@ Option 2 - Direct Download:
 
 ```bash
 # macOS/Linux/Termux
-curl -o hydra_pulse.py "https://raw.githubusercontent.com/your-username/eternal-veridian-hydra/main/hydra_pulse.py"
+curl -o hydra_pulse.py "https://raw.githubusercontent.com/696XXX/Hydra-spammer/refs/heads/main/hydra_pulse.py"
 
 # Windows PowerShell
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/your-username/eternal-veridian-hydra/main/hydra_pulse.py" -OutFile "hydra_pulse.py"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/696XXX/Hydra-spammer/refs/heads/main/hydra_pulse.py" -OutFile "hydra_pulse.py"
 ```
 
 Option 3 - Manual Creation:
