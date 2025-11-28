@@ -51,20 +51,20 @@ Step 2: Download the Tool
 Method A - Git Clone:
 
 ```bash
-git clone https://github.com/your-username/eternal-veridian-hydra.git
-cd eternal-veridian-hydra
+git clone https://github.com/696XXX/Hydra-spammer.git
+cd Hydra-spammer
 ```
 
 Method B - Direct Download:
 
 ```bash
-mkdir hydra-project && cd hydra-project
+mkdir Hydra-spammer && cd Hydra-spammer
 curl -o hydra_pulse.py "https://raw.githubusercontent.com/696XXX/Hydra-spammer/refs/heads/main/hydra_pulse.py"
 ```
 
 Method C - Manual Download:
 
-1. Visit: https://github.com/your-username/eternal-veridian-hydra
+1. Visit: https://github.com/696XXX/Hydra-spammer
 2. Click hydra_pulse.py
 3. Copy raw content and save as hydra_pulse.py
 
